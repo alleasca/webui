@@ -17,7 +17,7 @@ msgid " Download Updates"
 msgstr " Scarica Aggiornamenti"
 
 msgid " First data vdev is a "
-msgstr " Il primio vdev dato è un"
+msgstr " Il primo vdev di dati è un"
 
 msgid " First vdev has "
 msgstr " Il primo vdev ha"
